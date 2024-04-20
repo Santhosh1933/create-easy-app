@@ -1,9 +1,10 @@
 {
-    "name": "create-easy-app",
+    "name": "create-simple-react-ui",
     "version": "1.0.0",
     "description": "Custom npx command to set up a React app with Vite, Tailwind CSS, and optionally Chakra UI",
+    "main": "index.js",
     "bin": {
-      "create-easy-app": "./index.js"
+      "create-simple-react-ui": "./index.js"
     },
     "keywords": [],
     "author": "santhosh.s",
